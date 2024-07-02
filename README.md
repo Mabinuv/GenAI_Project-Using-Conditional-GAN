@@ -6,7 +6,7 @@ A generator tries to fool the discriminator and create realistic images while th
 
 This can according to google crash course summarise as:
 
-{https://github.com/Mabinuv/GenAI_Proj---Using-Conditional-GAN/blob/main/gan_diagram.svg}
+![GAN!]{https://github.com/Mabinuv/GenAI_Proj---Using-Conditional-GAN/blob/main/gan_diagram.svg}
 
 
 The generator learns to generate plausible data. The generated instances become negative training examples for the discriminator.
