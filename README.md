@@ -1,4 +1,4 @@
-![gan_diagram](https://github.com/Mabinuv/GenAI_Proj---Using-Conditional-GAN/assets/117342411/c6bfc7cb-3a6c-4201-9800-ce9bb785d8f6)# Gen_AI
+# Gen_AI
 
 This project will develop a Conditional Generative adversarial network (cGAN).
 
