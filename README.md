@@ -17,5 +17,6 @@ Given dataset contains sequence of image sets. There are multiple sets with dist
 Implement a cGAN - Generator model that takes in the first frame as input and generates the respective last frame of that image sequence.
 
 
-https://github.com/user-attachments/assets/fb4724b7-c7d7-4526-8722-ed0b08124ad5
+
+![cGAN](https://github.com/user-attachments/assets/33863d18-1818-4902-ab5f-c62d340fdd70)
 
