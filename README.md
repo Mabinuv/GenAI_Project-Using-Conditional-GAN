@@ -14,9 +14,10 @@ The discriminator learns to distinguish the generator's fake data from real data
 Task
 Given dataset contains sequence of image sets. There are multiple sets with distinct image sequences. Given the very first frame of a sequence, generate the last frame.
 
-Implement a cGAN - Generator model that takes in the first frame as input and generates the respective last frame of that image sequence.
+Implement a cGAN - Generator model that takes in the first frame as input and generates the respective last frame of that image sequence. Integrate the Gen Model and deploy it on a webpage using StreamLit.
 
 
 
-![cGAN](https://github.com/user-attachments/assets/33863d18-1818-4902-ab5f-c62d340fdd70)
 
+
+![CGan](https://github.com/user-attachments/assets/624d5999-9274-4b90-a932-11431988880e)
