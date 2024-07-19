@@ -1,4 +1,4 @@
-# Gen_AI
+# Gen_AI - Frame sequence generator
 
 This project will develop a Conditional Generative adversarial network (cGAN).
 
